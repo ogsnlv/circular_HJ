@@ -1,0 +1,15 @@
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/bin/Debug/net6.0/circular_HJ
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/bin/Debug/net6.0/circular_HJ.deps.json
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/bin/Debug/net6.0/circular_HJ.runtimeconfig.json
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/bin/Debug/net6.0/circular_HJ.dll
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/bin/Debug/net6.0/circular_HJ.pdb
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/obj/Debug/net6.0/circular_HJ.csproj.AssemblyReference.cache
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/obj/Debug/net6.0/circular_HJ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/obj/Debug/net6.0/circular_HJ.AssemblyInfoInputs.cache
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/obj/Debug/net6.0/circular_HJ.AssemblyInfo.cs
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/obj/Debug/net6.0/circular_HJ.csproj.CoreCompileInputs.cache
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/obj/Debug/net6.0/circular_HJ.dll
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/obj/Debug/net6.0/refint/circular_HJ.dll
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/obj/Debug/net6.0/circular_HJ.pdb
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/obj/Debug/net6.0/circular_HJ.genruntimeconfig.cache
+/Users/ogsnlv/Library/Mobile Documents/com~apple~CloudDocs/UNI/Projects/circular_HJ/obj/Debug/net6.0/ref/circular_HJ.dll

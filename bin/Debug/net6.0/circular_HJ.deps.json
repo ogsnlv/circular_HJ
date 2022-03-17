@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "circular_HJ/1.0.0": {
+        "runtime": {
+          "circular_HJ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "circular_HJ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
