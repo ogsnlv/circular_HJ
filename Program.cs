@@ -76,6 +76,7 @@ namespace circular_HJ
                 Normalization(ref v1);
                 Normalization(ref v2);
 
+// jump conditions
                 if (r[i] < 10)
                 {
                     v3[0] = 1 / (H(r[i]) - Math.Pow(U(r[i]), 2) + Bo / r[i]) * (-Bo / r[i] * (DerH(r[i]) -
